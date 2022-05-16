@@ -1,7 +1,7 @@
 .login-box{
     display: inline-block;
     margin-left: 10vw;
-    font-size: 14px;
+    font-size: 1.8vh;
 }
 
 .login-field{
@@ -10,6 +10,7 @@
     border: 1px solid #5B94BC;
 }
 
-.h3{
+h3{
     margin: 0px !important;
 }
+
