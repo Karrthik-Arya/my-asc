@@ -1,0 +1,16 @@
+.Sidebar{
+    width: 15vw;
+    font-size: 0.85vw;
+    height: 100vh;
+    padding: 2px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    position:fixed;
+}
+
+.listtop{
+    margin-top: 7vh;
+    font-size: 12px;
+    margin-left: 4px;
+}
+
